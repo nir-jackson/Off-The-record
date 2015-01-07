@@ -1,0 +1,10 @@
+[
+    "tzipilivni", 
+    1268
+][
+    "ShellyYachimovich", 
+    1267
+][
+    "NaftaliBennett", 
+    1194
+]

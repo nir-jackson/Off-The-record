@@ -1,0 +1,10 @@
+[
+    "ShellyYachimovich", 
+    383
+][
+    "zehavagalon", 
+    352
+][
+    "katzisraellikud", 
+    309
+]
