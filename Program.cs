@@ -25,7 +25,7 @@ namespace LetsDoThis
                         word = "";
                         word = alpha[i1] + alpha[i2] + alpha[i3];
                         Console.WriteLine(word);
-
+                        string newpath = @"c:\Users\user\Desktop\TOOOOOOOV\Shura_tahtona\includes\json3\" + word + ".txt";
                         int count = 0;
                         using (FileStream fs = File.Create(newpath))
                         {
